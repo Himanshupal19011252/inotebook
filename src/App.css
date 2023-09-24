@@ -13,6 +13,14 @@
   }
 }
 
+body{
+  background-color: #c9d9e3;
+}
+input{
+  background-color: #B3CDE0 !important;
+  border: 1px solid #6497B1 !important;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
